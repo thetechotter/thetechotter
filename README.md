@@ -32,7 +32,6 @@ Hi there! I’m **Alex** — a tech enthusiast and full-stack developer who love
 ## 📬 Get In Touch
 
 - ✉️ **hi@theitfurryfox.com**  
-- ✉️ **hi@techfurry.com**  
 - 🌐 **[techotterdev.com](https://techotterdev.com)**  
 
 Feel free to reach out if you want to collaborate, ask a question, or just say hi!
