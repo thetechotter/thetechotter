@@ -13,6 +13,8 @@ Hi there! I’m **Alex** — a tech enthusiast and full-stack developer who love
 - 💬 I build tools that make technology easier to use and understand
 - 🌐 Check out my portfolio at [**techotterdev.com**](https://techotterdev.com)
 - 🦊 Known online as **TechOtter**
+- 🌐 [My Git](https://git.techotterdev.com)
+- Ai Ban Count = 1
 
 ---
 
